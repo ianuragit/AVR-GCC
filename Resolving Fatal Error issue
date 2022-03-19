@@ -7,7 +7,7 @@ Resolution / Solution :
 msys-1.0.dll needs to be replaced to resolve this issue with the latest version. 
 
 Latest Version can be downloaded from this repo or using this link 
-
+https://github.com/ianuragit/AVR-GCC/blob/main/msys-1.0.dll
 
 Location of the dll (where you need to paste the dowbloaded file)
 
