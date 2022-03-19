@@ -1,0 +1,14 @@
+Issue:
+
+main.c:13: fatal error: opening dependency file .dep/main.o.d: No such file or directory
+
+Resolution / Solution :
+
+msys-1.0.dll needs to be replaced to resolve this issue with the latest version. 
+
+Latest Version can be downloaded from this repo or using this link 
+
+
+Location of the dll (where you need to paste the dowbloaded file)
+
+\utils\bin      [in WinAVR installation]
